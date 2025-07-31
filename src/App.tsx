@@ -6,7 +6,7 @@ import EmailList from './EmailList'; // ❌ Wrong casing
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
+  
 
   return (
     <>
